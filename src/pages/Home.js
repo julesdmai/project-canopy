@@ -15,7 +15,7 @@ function HomePage() {
 
             {/* Main Content (Body) */}
             <main className="main">
-                <p>Welcome to my portfolio! This is the Home page.</p>
+                <p>This is the Home page.</p>
             </main>
 
             {/* Footer */}
