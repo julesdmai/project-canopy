@@ -1,13 +1,10 @@
 import './assets/css/App.css';
+import HomePage from './pages/Home.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Project Canopy
-        </p>
-      </header>
+      <HomePage></HomePage>
     </div>
   );
 }
