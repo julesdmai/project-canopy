@@ -1,2 +1,2 @@
 # project-canopy
-A personal web application by Jules
+A personal portfolio web application by Jules
